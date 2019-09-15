@@ -18,3 +18,4 @@ unlockapk.com#@#.adsbygoogle
 @@||pagead2.googlesyndication.com^$domain=unlockapk.com
 ||www.microvirt.com^
 ||stat.microvirt.com^
+@@||dif-dot-prd-euw-gmal-mcdonalds.appspot.com/plexure/v1/adv/v3/advertisements?offset=0&merchantId=625&ignoreDailyTimeFilter=false&limit=100&placement=CD$app=com.mcdonalds.mobileapp
