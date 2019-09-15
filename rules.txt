@@ -16,3 +16,5 @@ a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.N
 a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4)
 unlockapk.com#@#.adsbygoogle
 @@||pagead2.googlesyndication.com^$domain=unlockapk.com
+||www.microvirt.com^
+||stat.microvirt.com^
