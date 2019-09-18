@@ -16,8 +16,8 @@ a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.N
 a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4)
 unlockapk.com#@#.adsbygoogle
 @@||pagead2.googlesyndication.com^$domain=unlockapk.com
-||www.microvirt.com
-||stat.microvirt.com
+||www.microvirt.com^
+||stat.microvirt.com^
 @@||dif-dot-prd-euw-gmal-mcdonalds.appspot.com/plexure/v1/adv/v3/advertisements?offset=0&merchantId=625&ignoreDailyTimeFilter=false&limit=100&placement=CD$app=com.mcdonalds.mobileapp
 feedly.com###searchBarFX > div.container.centered > button.pro.primary.small:first-child
 ||googleads.g.doubleclick.net^$app=air.kukulive.mailnow
