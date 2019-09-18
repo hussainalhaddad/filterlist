@@ -23,3 +23,4 @@ feedly.com###searchBarFX > div.container.centered > button.pro.primary.small:fir
 ||googleads.g.doubleclick.net^$app=air.kukulive.mailnow
 ||lh3.googleusercontent.com^$app=air.kukulive.mailnow
 ||lh3.googleusercontent.com^$app=air.kukulive.mailnow
+||settings.crashlytics.com^$app=com.moviebase
