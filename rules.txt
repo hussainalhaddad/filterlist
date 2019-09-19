@@ -25,5 +25,4 @@ feedly.com###searchBarFX > div.container.centered > button.pro.primary.small:fir
 ||lh3.googleusercontent.com^$app=air.kukulive.mailnow
 ||settings.crashlytics.com^$app=com.moviebase
 ||e.crashlytics.com^$app=com.moviebase
-@@||pagead2.googlesyndication.com^$domain=newsjizz.in
-@@||googleads.g.doubleclick.net^$domain=newsjizz.in
+
