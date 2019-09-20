@@ -4,7 +4,11 @@ yts.lt###movie-info > div.bottom-info:last-child > div.rating-row.hidden-sm.hidd
 ||igg-games.com/wp-content/uploads/2018/11/logo-1.png$domain=igg-games.com
 igg-games.com###tm-main > div.uk-container > div.uk-grid.uk-grid-small.uk-grid-divider > div.uk-width-expand\@m.uk-first-column:first-child > div.n2-ss-margin:nth-child(2)
 igg-games.com###n2-ss-3-placeholder > img.n2-ow
-igg-games.com###tm-sidebar
+igg-games.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(2)
+igg-games.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(3)
+igg-games.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(6)
+igg-games.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(5)
+igg-games.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(7)
 talabat.com##div.ng-scope:nth-child(6) > ui-view.ng-scope > div.ng-scope:last-child > section.sliders-section.ng-scope:last-child > div.container.p-t-lg > div.row
 digiboy.ir##div.container_12:first-child > div.bg-content:last-child > div > div > aside:first-child > div.grid_4
 digiboy.ir###header-bar
