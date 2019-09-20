@@ -9,6 +9,7 @@ talabat.com##div.ng-scope:nth-child(6) > ui-view.ng-scope > div.ng-scope:last-ch
 digiboy.ir##div.container_12:first-child > div.bg-content:last-child > div > div > aside:first-child > div.grid_4
 digiboy.ir###header-bar
 digiboy.ir##div.footer:nth-child(3) > footer
+digiboy.ir##.sidebar
 ||m.bbkonline.com/mb/images/short_bg.jpg$domain=m.bbkonline.com
 ||m.bbkonline.com/mb/images/long_bg.jpg$domain=m.bbkonline.com
 a2zapk.com##.WebF
