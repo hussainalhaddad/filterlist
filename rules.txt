@@ -28,3 +28,4 @@ feedly.com###searchBarFX > div.container.centered > button.pro.primary.small:fir
 ||e.crashlytics.com^$app=com.moviebase
 @@||newsjizz.in^
 ||talabat.com/apiweb/v1/restaurants/gemOffers$domain=talabat.com
+talabat.com##div.smartBannerContainer.hidden-sm.hidden-md.hidden-lg
