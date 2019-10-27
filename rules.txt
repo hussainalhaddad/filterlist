@@ -29,3 +29,4 @@ feedly.com###searchBarFX > div.container.centered > button.pro.primary.small:fir
 @@||newsjizz.in^
 ||talabat.com/apiweb/v1/restaurants/gemOffers$domain=talabat.com
 talabat.com##div.smartBannerContainer.hidden-sm.hidden-md.hidden-lg
+yts.lt###movie-poster > a.button-green-download2-big.hidden-xs.hidden-sm:nth-child(3)
