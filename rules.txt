@@ -35,3 +35,4 @@ trakt.tv##div#hu-ck-ster-mob-ile-mid-dle-square
 trakt.tv##div#hu-ck-ster-mob-ile-mid-dle2-square
 trakt.tv##div#hu-ck-ster-mob-ile-mid-dle3-square
 trakt.tv##div#hu-ck-ster-mob-ile-bot-tom-square
+feedly.com###topHeaderBarFX > div.container.centered > button.pro.primary.small:first-child
