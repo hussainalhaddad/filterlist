@@ -20,13 +20,11 @@ a2zapk.com##.WebF
 a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(5)
 a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4)
 unlockapk.com#@#.adsbygoogle
-@@||pagead2.googlesyndication.com^$domain=unlockapk.com
 ||www.microvirt.com^
 ||stat.microvirt.com^
 feedly.com###searchBarFX > div.container.centered > button.pro.primary.small:first-child
 ||settings.crashlytics.com^$app=com.moviebase
 ||e.crashlytics.com^$app=com.moviebase
-@@||newsjizz.in^
 ||talabat.com/apiweb/v1/restaurants/gemOffers$domain=talabat.com
 talabat.com##div.smartBannerContainer.hidden-sm.hidden-md.hidden-lg
 yts.lt###movie-poster > a.button-green-download2-big.hidden-xs.hidden-sm:nth-child(3)
@@ -38,3 +36,4 @@ trakt.tv##div#hu-ck-ster-mob-ile-bot-tom-square
 feedly.com###topHeaderBarFX > div.container.centered > button.pro.primary.small:first-child
 newsjizz.in##button.btnDownload1
 www.googletagmanager.com/gtag/js?id=UA-131538082-1
+newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(9)
