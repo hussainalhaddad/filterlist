@@ -36,6 +36,5 @@ trakt.tv##div#hu-ck-ster-mob-ile-bot-tom-square
 feedly.com###topHeaderBarFX > div.container.centered > button.pro.primary.small:first-child
 newsjizz.in##button.btnDownload1
 www.googletagmanager.com/gtag/js?id=UA-131538082-1
-newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(9)
 newsjizz.in###content > div:nth-child(6)
 newsjizz.in##div:nth-child(4)
