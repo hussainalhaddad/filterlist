@@ -37,4 +37,4 @@ trakt.tv##div#hu-ck-ster-mob-ile-mid-dle3-square
 trakt.tv##div#hu-ck-ster-mob-ile-bot-tom-square
 feedly.com###topHeaderBarFX > div.container.centered > button.pro.primary.small:first-child
 newsjizz.in##button.btnDownload1
-https://www.googletagmanager.com/gtag/js?id=UA-131538082-1
+www.googletagmanager.com/gtag/js?id=UA-131538082-1
