@@ -16,10 +16,6 @@ digiboy.ir##div.footer:nth-child(3) > footer
 digiboy.ir##.sidebar
 ||m.bbkonline.com/mb/images/short_bg.jpg$domain=m.bbkonline.com
 ||m.bbkonline.com/mb/images/long_bg.jpg$domain=m.bbkonline.com
-a2zapk.com##.WebF
-a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(5)
-a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4)
-unlockapk.com#@#.adsbygoogle
 ||www.microvirt.com^
 ||stat.microvirt.com^
 feedly.com###searchBarFX > div.container.centered > button.pro.primary.small:first-child
@@ -34,4 +30,26 @@ trakt.tv##div#hu-ck-ster-mob-ile-mid-dle2-square
 trakt.tv##div#hu-ck-ster-mob-ile-mid-dle3-square
 trakt.tv##div#hu-ck-ster-mob-ile-bot-tom-square
 feedly.com###topHeaderBarFX > div.container.centered > button.pro.primary.small:first-child
-
+repack-games.com###content-top-slider
+repack-games.com##footer:nth-child(7)
+repack-games.com##footer:nth-child(6)
+||pcgamestorrents.org/wp-content/uploads/2018/11/iggbackground.jpg$domain=pcgamestorrents.com
+pcgamestorrents.com###particles-js
+pcgamestorrents.com###tm-main > div.uk-container > div.uk-grid.uk-grid-small.uk-grid-divider > div.uk-width-expand\@m.uk-first-column:first-child > div.n2-ss-margin:nth-child(2)
+pcgamestorrents.com###n2-ss-3-placeholder > img.n2-ow
+pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(2)
+pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(3)
+pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(6)
+pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(5)
+pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(7)
+newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4) > div.DataInfoTop:first-child > table > tbody > tr > td:last-child > div.Right:nth-child(2) > center:last-child > button.btnDownload1
+newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(9)
+newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4) > div.DownLoadBotton:nth-child(7) > ul:nth-child(2) > li:nth-child(10) > a
+newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4) > div.DownLoadBotton:nth-child(7) > ul:nth-child(2) > li:last-child > a
+a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(6)
+a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.NewBlock1:last-child
+a2zapk.com##.WebF
+a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(5)
+a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4)
+unlockapk.com#@#.adsbygoogle
+psxhax.com###top > div.p-body:nth-child(5) > div.p-body-inner > div:first-child
