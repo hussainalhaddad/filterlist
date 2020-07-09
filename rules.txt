@@ -55,5 +55,6 @@ a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.N
 a2zapk.com##.WebF
 a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(5)
 a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4)
+@@||a2zapk.com/js/notification.js$domain=a2zapk.com
 unlockapk.com#@#.adsbygoogle
 psxhax.com###top > div.p-body:nth-child(5) > div.p-body-inner > div:first-child
