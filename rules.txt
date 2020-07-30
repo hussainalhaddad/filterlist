@@ -59,3 +59,4 @@ a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.N
 @@||a2zapk.com/js/notification.js$domain=a2zapk.com
 unlockapk.com#@#.adsbygoogle
 a2zupload.com###alertmsg
+a2zupload.com##.DataInfoTop
