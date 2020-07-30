@@ -47,3 +47,14 @@ pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack 
 yts.mx#@#.modal
 pcgamestorrents.com###n2-ss-2-placeholder
 psxhax.com###top > div.p-body:nth-child(5) > div.p-body-inner > div:first-child
+newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4) > div.DataInfoTop:first-child > table > tbody > tr > td:last-child > div.Right:nth-child(2) > center:last-child > button.btnDownload1
+newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(9)
+newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4) > div.DownLoadBotton:nth-child(7) > ul:nth-child(2) > li:nth-child(10) > a
+newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4) > div.DownLoadBotton:nth-child(7) > ul:nth-child(2) > li:last-child > a
+a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(6)
+a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.NewBlock1:last-child
+a2zapk.com##.WebF
+a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(5)
+a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4)
+@@||a2zapk.com/js/notification.js$domain=a2zapk.com
+unlockapk.com#@#.adsbygoogle
