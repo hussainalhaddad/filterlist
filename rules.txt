@@ -58,3 +58,5 @@ a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.N
 a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4)
 @@||a2zapk.com/js/notification.js$domain=a2zapk.com
 unlockapk.com#@#.adsbygoogle
+a2zupload.com###alertmsg
+a2zupload.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1:last-child > div.ArticleLand:nth-child(14)
