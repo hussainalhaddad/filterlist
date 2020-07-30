@@ -60,3 +60,5 @@ a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.N
 unlockapk.com#@#.adsbygoogle
 a2zupload.com###alertmsg
 a2zupload.com##.DataInfoTop
+a2zupload.com###taxonomy-list_1-0
+a2zupload.com###content > div:nth-child(6)
