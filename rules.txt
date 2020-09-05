@@ -63,3 +63,4 @@ a2zupload.com##.DataInfoTop
 a2zupload.com###taxonomy-list_1-0
 a2zupload.com###content > div:nth-child(6)
 dropgalaxy.com###\[object\ HTMLInputElement\] > div.mt-5.text-center:nth-child(17) > a.btn.btn-block.btn-lg.btn-danger:last-child
+dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(3) > footer.footer:nth-child(21)
