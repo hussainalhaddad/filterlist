@@ -27,6 +27,7 @@ talabat.com##div.smartBannerContainer.hidden-sm.hidden-md.hidden-lg
 yts.lt###movie-poster > a.button-green-download2-big.hidden-xs.hidden-sm:nth-child(3)
 yts.mx###movie-info > div.bottom-info:last-child > div.rating-row:nth-child(3)
 yts.mx###movie-info > div.bottom-info:last-child > div.rating-row:nth-child(5)
+yts.mx##div.main-content:nth-child(5) > div.container.home-content:nth-child(4) > div.hidden-xs.hidden-sm:nth-child(3)
 trakt.tv##div#hu-ck-ster-mob-ile-to-p-square
 trakt.tv##div#hu-ck-ster-mob-ile-mid-dle-square
 trakt.tv##div#hu-ck-ster-mob-ile-mid-dle2-square
