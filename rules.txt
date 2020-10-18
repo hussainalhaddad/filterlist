@@ -67,3 +67,4 @@ a2zupload.com###taxonomy-list_1-0
 a2zupload.com###content > div:nth-child(6)
 dropgalaxy.com###div.mt-5.text-center:nth-child(17)
 dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(3) > footer.footer:nth-child(21)
+techradar.com###um_ultimedia_wrapper_wrap_widget_default
