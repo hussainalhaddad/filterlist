@@ -67,3 +67,6 @@ a2zupload.com###taxonomy-list_1-0
 a2zupload.com###content > div:nth-child(6)
 dropgalaxy.com###div.mt-5.text-center:nth-child(17)
 dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(3) > footer.footer:nth-child(21)
+dropgalaxy.com###downloadPagecontainer > div.row:nth-child(3) > div.col-md-8.mt-5:nth-child(2)
+dropgalaxy.com###downloadPagecontainer > footer.footer:nth-child(23)
+dropgalaxy.com###\[object\ HTMLInputElement\] > div.mt-5.text-center:nth-child(17)
