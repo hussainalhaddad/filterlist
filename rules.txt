@@ -76,3 +76,4 @@ dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(2) > div.row:nth-
 dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(2) > div.row:first-child > div.col-md-12.py-3:nth-child(2)
 a2zupload.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1:last-child > div.ArticleLand:nth-child(4)
 a2zupload.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1:last-child > div.ArticleLand:nth-child(13)
+a2zupload.com##div:nth-child(4)
