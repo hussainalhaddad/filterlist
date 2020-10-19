@@ -70,3 +70,4 @@ dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(3) > footer.foote
 dropgalaxy.com###downloadPagecontainer > div.row:nth-child(3) > div.col-md-8.mt-5:nth-child(2)
 dropgalaxy.com###downloadPagecontainer > footer.footer:nth-child(23)
 dropgalaxy.com###\[object\ HTMLInputElement\] > div.mt-5.text-center:nth-child(17)
+dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(2) > div.row:first-child > div.col-md-4.mt-5.text-center:nth-child(6) > a.btn.btn-block.btn-sm.btn-info:nth-child(8)
