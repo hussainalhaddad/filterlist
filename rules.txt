@@ -65,3 +65,12 @@ a2zupload.com###alertmsg
 a2zupload.com##.DataInfoTop
 a2zupload.com###taxonomy-list_1-0
 a2zupload.com###content > div:nth-child(6)
+dropgalaxy.com###div.mt-5.text-center:nth-child(17)
+dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(3) > footer.footer:nth-child(21)
+dropgalaxy.com###downloadPagecontainer > div.row:nth-child(3) > div.col-md-8.mt-5:nth-child(2)
+dropgalaxy.com###downloadPagecontainer > footer.footer:nth-child(23)
+dropgalaxy.com###\[object\ HTMLInputElement\] > div.mt-5.text-center:nth-child(17)
+dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(2) > div.row:first-child > div.col-md-4.mt-5.text-center:nth-child(6) > a.btn.btn-block.btn-sm.btn-info:nth-child(8)
+dropgalaxy.com##nav.navbar.navbar-expand-md.navbarLayout.fixed-top:first-child
+dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(2) > div.row:nth-child(5) > div.col-md-12.py-3:nth-child(2)
+dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(2) > div.row:first-child > div.col-md-12.py-3:nth-child(2)
