@@ -77,3 +77,4 @@ dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(2) > div.row:firs
 mye-bankonline.com###j_id229 > div.title-bar.cust-title:last-child > div.banner.has-dots
 mye-bankonline.com###layoutTable > tbody > tr > td.width963 > table > tbody > tr > td.mobileHide:first-child > table > tbody > tr:first-child > td > table.directionAlignLtr:last-child > tbody > tr:first-child > td
 youtube.com###content > ytd-rich-shelf-renderer.style-scope.ytd-rich-section-renderer
+feedly.com###topHeaderBarFX > div.container.centered
