@@ -79,3 +79,4 @@ mye-bankonline.com###layoutTable > tbody > tr > td.width963 > table > tbody > tr
 youtube.com###content > ytd-rich-shelf-renderer.style-scope.ytd-rich-section-renderer
 feedly.com###topHeaderBarFX > div.container.centered
 ||a2zapk.com/js/adss1.js$domain=a2zapk.com
+a2zapk.com#@##bottomAdWrapper
