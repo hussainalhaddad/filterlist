@@ -82,7 +82,7 @@ feedly.com###topHeaderBarFX > div.container.centered
 a2zapk.com#@##bottomAdWrapper
 content\.jwplatform\.com
 p\.jwpcdn\.com
-||ssl.p.jwpcdn.com^
+||ssl.p.jwpcdn.com^$important
 *.jwpcdn.com
 ||assets-jpcust.jwpsrv.com/*/ping.js
 ||entitlements.jwplayer.com^$important
