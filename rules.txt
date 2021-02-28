@@ -80,3 +80,24 @@ youtube.com###content > ytd-rich-shelf-renderer.style-scope.ytd-rich-section-ren
 feedly.com###topHeaderBarFX > div.container.centered
 ||a2zapk.com/js/adss1.js$domain=a2zapk.com
 a2zapk.com#@##bottomAdWrapper
+content\.jwplatform\.com
+p\.jwpcdn\.com
+ssl.p.jwpcdn.com
+*.jwpcdn.com
+||assets-jpcust.jwpsrv.com/*/ping.js
+||entitlements.jwplayer.com^$important
+||entitlements.jwplayer.com^$third-party
+||jwpcdn.com/*/related.js^$script,first-party
+||jwpcdn.com^third-party
+||jwplatform.com/ping.gif?
+||jwpltx.com/*/ping.gif
+||jwpltx.com^
+||jwpltx.com^$important
+||jwpltx.com^$third-party
+||jwpltx.com^third-party
+||jwpsrv.com^$3p,important
+||jwpsrv.com^third-party
+||v.jwpcdn.com^
+jwpcdn.com/player/v/7.10.2/sharing.js
+jwpcdn.com/player/v/7.10.2/sharing.js$important
+jwplatform.com##.jw-logo.jw-logo-top-left
