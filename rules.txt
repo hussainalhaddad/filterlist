@@ -101,3 +101,4 @@ p\.jwpcdn\.com
 jwpcdn.com/player/v/7.10.2/sharing.js
 jwpcdn.com/player/v/7.10.2/sharing.js$important
 jwplatform.com##.jw-logo.jw-logo-top-left
+feedly.com###barsFX
