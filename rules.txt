@@ -104,3 +104,4 @@ jwplatform.com##.jw-logo.jw-logo-top-left
 feedly.com###barsFX
 dlpsgame.net###HTML2 > div.widget-content:first-child
 filecr.com##.site-footer
+techyneed.com###content > center:nth-child(5) > a:first-child > img
