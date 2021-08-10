@@ -111,3 +111,5 @@ techyneed.com##div.Container:nth-child(3) > section.LeftSection:first-child > di
 techyneed.com##div:nth-child(5)
 feedly.com###reactDockedPopup > div.DockedPopup
 dlpsgame.org###HTML2 > div.widget-content:first-child > div
+rtxkeeda.com##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(12)
+rtxkeeda.com###alert
