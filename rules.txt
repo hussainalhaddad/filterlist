@@ -72,8 +72,6 @@ dropgalaxy.com###downloadPagecontainer > div.row:nth-child(3) > div.col-md-8.mt-
 dropgalaxy.com###downloadPagecontainer > footer.footer:nth-child(23)
 dropgalaxy.com###\[object\ HTMLInputElement\] > div.mt-5.text-center:nth-child(17)
 a2zapk.com##div.Container:nth-child(3) > section.LeftSection > a:nth-child(4)
-techyneed.com###content > center:last-child > a:first-child
-techyneed.com##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(11)
 dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(2) > div.row:first-child > div.col-md-4.mt-5.text-center:nth-child(6) > a.btn.btn-block.btn-sm.btn-info:nth-child(8)
 dropgalaxy.com##nav.navbar.navbar-expand-md.navbarLayout.fixed-top:first-child
 dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(2) > div.row:nth-child(5) > div.col-md-12.py-3:nth-child(2)
