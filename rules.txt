@@ -116,3 +116,4 @@ rtxkeeda.com##div.Container:nth-child(3) > section.LeftSection:first-child > div
 rtxkeeda.com###alert
 rtxkeeda.com###content > center:nth-child(5) > a:first-child
 secure.tagged.com###messages-inbox > div:nth-child(2) > div.messages-vip-promo.row
+m.tagged.com###messages-inbox > div:nth-child(2) > div.messages-vip-promo.row
