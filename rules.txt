@@ -118,3 +118,4 @@ rtxkeeda.com###content > center:nth-child(5) > a:first-child
 secure.tagged.com###messages-inbox > div:nth-child(2) > div.messages-vip-promo.row
 m.tagged.com###messages-inbox > div:nth-child(2) > div.messages-vip-promo.row
 m.tagged.com##div.footer-app-promo.row:nth-child(8)
+a2zapk.com##div.Container:nth-child(5) > section.LeftSection > div.NewBlock1 > div.ArticleLand:nth-child(3) > a:nth-child(17)
