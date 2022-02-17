@@ -25,6 +25,7 @@ feedly.com###searchBarFX > div.container.centered > button.pro.primary.small:fir
 ||e.crashlytics.com^$app=com.moviebase
 ||talabat.com/apiweb/v1/restaurants/gemOffers$domain=talabat.com
 talabat.com##div.smartBannerContainer.hidden-sm.hidden-md.hidden-lg
+yts.mx###movie-poster > a.button-green-download2-big:nth-child(3)
 yts.lt###movie-poster > a.button-green-download2-big.hidden-xs.hidden-sm:nth-child(3)
 yts.mx###movie-info > div.bottom-info:last-child > div.rating-row:nth-child(3)
 yts.mx###movie-info > div.bottom-info:last-child > div.rating-row:nth-child(5)
