@@ -49,6 +49,7 @@ pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack 
 pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(5)
 pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(7)
 yts.mx#@#.modal
+yts.mx###koaquu
 pcgamestorrents.com###n2-ss-2-placeholder
 psxhax.com###top > div.p-body:nth-child(5) > div.p-body-inner > div:first-child
 newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4) > div.DataInfoTop:first-child > table > tbody > tr > td:last-child > div.Right:nth-child(2) > center:last-child > button.btnDownload1
