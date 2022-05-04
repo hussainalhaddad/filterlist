@@ -121,3 +121,6 @@ secure.tagged.com###messages-inbox > div:nth-child(2) > div.messages-vip-promo.r
 m.tagged.com###messages-inbox > div:nth-child(2) > div.messages-vip-promo.row
 m.tagged.com##div.footer-app-promo.row:nth-child(8)
 a2zapk.com##div.Container:nth-child(5) > section.LeftSection > div.NewBlock1 > div.ArticleLand:nth-child(3) > a:nth-child(17)
+m.tagged.com##span:nth-child(6) > span > header.default > nav > ul > li:last-child
+m.tagged.com##div.footer-promos:nth-child(4)
+m.tagged.com###.banner-ad
