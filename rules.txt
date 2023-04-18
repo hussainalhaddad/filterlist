@@ -124,3 +124,4 @@ a2zapk.com##div.Container:nth-child(5) > section.LeftSection > div.NewBlock1 > d
 m.tagged.com##span:nth-child(6) > span > header.default > nav > ul > li:last-child
 m.tagged.com##div.footer-promos:nth-child(4)
 m.tagged.com###.banner-ad
+a2zapk.io##.WebF
