@@ -126,3 +126,4 @@ m.tagged.com##div.footer-promos:nth-child(4)
 m.tagged.com###.banner-ad
 a2zapk.io##.WebF
 ||pcgamestorrents.com/wp-content/uploads/2023/04/PC-min.jpg
+pcgamestorrents.com##.n2-ss-margin
