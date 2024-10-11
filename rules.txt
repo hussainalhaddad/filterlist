@@ -1,7 +1,6 @@
 ! Title: Hussain Al Haddad
 ||igg-games.com/wp-content/uploads/2018/11/iggbackground.jpg$domain=igg-games.com
 igg-games.com###particles-js
-yts.lt###movie-info > div.bottom-info:last-child > div.rating-row.hidden-sm.hidden-xs.v211:nth-child(4)
 ||igg-games.com/wp-content/uploads/2018/11/logo-1.png$domain=igg-games.com
 igg-games.com###tm-main > div.uk-container > div.uk-grid.uk-grid-small.uk-grid-divider > div.uk-width-expand\@m.uk-first-column:first-child > div.n2-ss-margin:nth-child(2)
 igg-games.com###n2-ss-3-placeholder > img.n2-ow
@@ -25,12 +24,6 @@ feedly.com###searchBarFX > div.container.centered > button.pro.primary.small:fir
 ||e.crashlytics.com^$app=com.moviebase
 ||talabat.com/apiweb/v1/restaurants/gemOffers$domain=talabat.com
 talabat.com##div.smartBannerContainer.hidden-sm.hidden-md.hidden-lg
-yts.mx###movie-poster > a.button-green-download2-big:nth-child(3)
-yts.lt###movie-poster > a.button-green-download2-big.hidden-xs.hidden-sm:nth-child(3)
-yts.mx###movie-info > div.bottom-info:last-child > div.rating-row:nth-child(3)
-yts.mx###movie-info > div.bottom-info:last-child > div.rating-row:nth-child(5)
-yts.mx##div.main-content:nth-child(5) > div.container.home-content:nth-child(4) > div.hidden-xs.hidden-sm:nth-child(3)
-yts.mx###movie-info > div.bottom-info:last-child > div.rating-row:nth-child(4)
 trakt.tv##div#hu-ck-ster-mob-ile-to-p-square
 trakt.tv##div#hu-ck-ster-mob-ile-mid-dle-square
 trakt.tv##div#hu-ck-ster-mob-ile-mid-dle2-square
@@ -49,8 +42,6 @@ pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack 
 pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(6)
 pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(5)
 pcgamestorrents.com###tm-sidebar > div.uk-child-width-1-1.uk-grid.uk-grid-stack > div.uk-visible\@l.uk-grid-margin.uk-first-column:nth-child(7)
-yts.mx#@#.modal
-yts.mx###koaquu
 pcgamestorrents.com###n2-ss-2-placeholder
 psxhax.com###top > div.p-body:nth-child(5) > div.p-body-inner > div:first-child
 newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4) > div.DataInfoTop:first-child > table > tbody > tr > td:last-child > div.Right:nth-child(2) > center:last-child > button.btnDownload1
