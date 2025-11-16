@@ -97,14 +97,13 @@ jwpcdn.com/player/v/7.10.2/sharing.js
 jwpcdn.com/player/v/7.10.2/sharing.js$important
 jwplatform.com##.jw-logo.jw-logo-top-left
 feedly.com###barsFX
-dlpsgame.net###HTML2 > div.widget-content:first-child
+dlpsgame.com###HTML2 > div.widget-content:first-child > div > img:first-child
 filecr.com##.site-footer
 techyneed.com###content > center:nth-child(5) > a:first-child > img
 techyneed.com##iframe:last-child
 techyneed.com##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(9)
 techyneed.com##div:nth-child(5)
 feedly.com###reactDockedPopup > div.DockedPopup
-dlpsgame.org###HTML2 > div.widget-content:first-child > div
 rtxkeeda.com##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(12)
 rtxkeeda.com###alert
 rtxkeeda.com###content > center:nth-child(5) > a:first-child
