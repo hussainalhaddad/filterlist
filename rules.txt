@@ -97,7 +97,7 @@ jwpcdn.com/player/v/7.10.2/sharing.js
 jwpcdn.com/player/v/7.10.2/sharing.js$important
 jwplatform.com##.jw-logo.jw-logo-top-left
 feedly.com###barsFX
-dlpsgame.com###HTML2 > div.widget-content:first-child > div > img:first-child
+dlpsgame.com###HTML2 > div.widget-content:first-child
 filecr.com##.site-footer
 techyneed.com###content > center:nth-child(5) > a:first-child > img
 techyneed.com##iframe:last-child
