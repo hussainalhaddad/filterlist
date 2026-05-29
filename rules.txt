@@ -48,12 +48,12 @@ newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.
 newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(9)
 newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4) > div.DownLoadBotton:nth-child(7) > ul:nth-child(2) > li:nth-child(10) > a
 newsjizz.in##div.Container:nth-child(3) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4) > div.DownLoadBotton:nth-child(7) > ul:nth-child(2) > li:last-child > a
-a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(6)
-a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.NewBlock1:last-child
-a2zapk.com##.WebF
-a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(5)
-a2zapk.com##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4)
-@@||a2zapk.com/js/notification.js$domain=a2zapk.com
+a2zapk.co##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(6)
+a2zapk.co##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.NewBlock1:last-child
+a2zapk.co##.WebF
+a2zapk.co##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(5)
+a2zapk.co##div.Container:nth-child(5) > section.LeftSection:first-child > div.NewBlock1 > div.ArticleLand:nth-child(4)
+@@||a2zapk.co/js/notification.js$domain=a2zapk.com
 unlockapk.com#@#.adsbygoogle
 a2zupload.com###alertmsg
 a2zupload.com##.DataInfoTop
@@ -64,7 +64,7 @@ dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(3) > footer.foote
 dropgalaxy.com###downloadPagecontainer > div.row:nth-child(3) > div.col-md-8.mt-5:nth-child(2)
 dropgalaxy.com###downloadPagecontainer > footer.footer:nth-child(23)
 dropgalaxy.com###\[object\ HTMLInputElement\] > div.mt-5.text-center:nth-child(17)
-a2zapk.com##div.Container:nth-child(3) > section.LeftSection > a:nth-child(4)
+a2zapk.co##div.Container:nth-child(3) > section.LeftSection > a:nth-child(4)
 dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(2) > div.row:first-child > div.col-md-4.mt-5.text-center:nth-child(6) > a.btn.btn-block.btn-sm.btn-info:nth-child(8)
 dropgalaxy.com##nav.navbar.navbar-expand-md.navbarLayout.fixed-top:first-child
 dropgalaxy.com##div.container.pt-5.page.downloadPage:nth-child(2) > div.row:nth-child(5) > div.col-md-12.py-3:nth-child(2)
@@ -73,8 +73,8 @@ mye-bankonline.com###j_id229 > div.title-bar.cust-title:last-child > div.banner.
 mye-bankonline.com###layoutTable > tbody > tr > td.width963 > table > tbody > tr > td.mobileHide:first-child > table > tbody > tr:first-child > td > table.directionAlignLtr:last-child > tbody > tr:first-child > td
 youtube.com###content > ytd-rich-shelf-renderer.style-scope.ytd-rich-section-renderer
 feedly.com###topHeaderBarFX > div.container.centered
-||a2zapk.com/js/adss1.js$domain=a2zapk.com
-a2zapk.com#@##bottomAdWrapper
+||a2zapk.co/js/adss1.js$domain=a2zapk.com
+a2zapk.co#@##bottomAdWrapper
 content\.jwplatform\.com
 p\.jwpcdn\.com
 ||ssl.p.jwpcdn.com^$important
@@ -110,10 +110,10 @@ rtxkeeda.com###content > center:nth-child(5) > a:first-child
 secure.tagged.com###messages-inbox > div:nth-child(2) > div.messages-vip-promo.row
 m.tagged.com###messages-inbox > div:nth-child(2) > div.messages-vip-promo.row
 m.tagged.com##div.footer-app-promo.row:nth-child(8)
-a2zapk.com##div.Container:nth-child(5) > section.LeftSection > div.NewBlock1 > div.ArticleLand:nth-child(3) > a:nth-child(17)
+a2zapk.co##div.Container:nth-child(5) > section.LeftSection > div.NewBlock1 > div.ArticleLand:nth-child(3) > a:nth-child(17)
 m.tagged.com##span:nth-child(6) > span > header.default > nav > ul > li:last-child
 m.tagged.com##div.footer-promos:nth-child(4)
 m.tagged.com###.banner-ad
-a2zapk.io##.WebF
+a2zapk.co##.WebF
 ||pcgamestorrents.com/wp-content/uploads/2023/04/PC-min.jpg
 pcgamestorrents.com##.n2-ss-margin
